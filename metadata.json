@@ -1,0 +1,5 @@
+{
+  "name": "ShadowVault",
+  "description": "A secure, biometric-powered smart account vault with social recovery, built with permissionless.js and Pimlico. This application demonstrates creating a smart account, securing it with a passkey, and setting up guardian-based recovery protocols.",
+  "requestFramePermissions": []
+}
